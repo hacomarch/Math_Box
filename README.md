@@ -1,1 +1,1 @@
-### 깃 관련 공부
+###Study about Git, Github
