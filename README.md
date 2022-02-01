@@ -1,1 +1,1 @@
-### Study about Git, Github
+# Study about Git, Github
